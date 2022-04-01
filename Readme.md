@@ -4,7 +4,7 @@ React Native Boilerplate (TypeScript) v3.1.x
 
 ## Getting Started
 
-1. Clone this repo, `git clone https://github.com/ariefyusron/boilerplate-react-native.git <your project name>`
+1. Clone this repo, `git clone https://github.com/agusnuryady/react-native-boilerplate.git <your project name>`
 2. Go to project's root directory, `cd <your project name>`
 3. Remove `.git` folder,  `rm -rf .git`
 4. `https://www.npmjs.com/package/react-native-rename` for rename project
